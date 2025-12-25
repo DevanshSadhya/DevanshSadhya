@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Data Structures & Algorithms in Java<br>👯 I’m looking to collaborate on Java projects,DSA practice & competitive programming,College-level open-source projects<br>🤝 I’m looking for help with Interview-oriented DSA,Writing efficient & clean Java code<br>🌱 I’m currently learning Advanced Java (OOP, Collections, DSA),Problem-solving & game development basics<br>💬 Ask me about Java fundamentals,DSA for exams & interviews<br>⚡ Fun fact I enjoy simplifying tough problems and love classic retro games
 
 
 ## 🌐 Socials:
